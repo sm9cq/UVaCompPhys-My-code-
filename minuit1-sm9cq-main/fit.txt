@@ -1,0 +1,33 @@
+M MINOS     STATUS=NEW MINIMU   1179 CALLS        2889 TOTAL
+
+                     EDM= unknown      STRATEGY= 1      NO ERROR MATRIX       
+
+  EXT PARAMETER                  PARABOLIC         MINOS ERRORS        
+
+  NO.   NAME      VALUE            ERROR      NEGATIVE      POSITIVE   
+
+   1  Normalization   5.26259e+02   2.47674e+01                            
+
+   2  Mean x       5.34770e+00   1.55741e-01                            
+
+   3  SD x         2.28544e+00   8.69822e-02                            
+
+   4  Mean y      -2.25738e+01   5.89851e-01                            
+
+   5  SD y         7.66213e+00   1.82772e-01                            
+
+   6  Bkg          1.78011e+01   3.68787e-01                            
+
+   7  BkgMean x    3.08045e+00   9.99186e-03                            
+
+   8  BkgSD x      5.28493e-01   8.17605e-03                            
+
+   9  BkgMean y    2.44823e+00   1.58394e-02                            
+
+  10  BkgSD y      1.09787e+00   1.61583e-02 
+
+Total number=8938
+Error=94.541
+
+I integrate the 4th histogram to get a total event number and sqrt of the number to get the error.
+
